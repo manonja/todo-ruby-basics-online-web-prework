@@ -25,4 +25,5 @@ end
 
 def pizza_party(phrase = "cheese")
   return phrase
+  binding.spy
 end
